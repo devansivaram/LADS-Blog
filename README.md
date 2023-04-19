@@ -1,8 +1,8 @@
 # LADS-Blog
 
-- Project Recording URL: [Add solution URL here](https://youtu.be/-5Q170vCAG4)
-- GitHub page URL:[Add GitHub page URL here](https://github.com/devansivaram/LADS-Blog)
-- Deployed GitHub page URL: [Add deployed GitHub page URL here](https://your-live-site-url.com)
+- Project Recording URL: (https://youtu.be/iVGNKm95JJg)
+- GitHub page URL:(https://github.com/devansivaram/LADS-Blog)
+- Deployed GitHub page URL: (https://devansivaram.github.io/LADS-Blog/)
 
 
 ### 1. What parts were you in charge of?
