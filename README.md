@@ -1,5 +1,10 @@
 # LADS-Blog
 
+- Project Recording URL: [Add solution URL here](https://youtu.be/-5Q170vCAG4)
+- GitHub page URL:[Add GitHub page URL here](https://github.com/devansivaram/LADS-Blog)
+- Deployed GitHub page URL: [Add deployed GitHub page URL here](https://your-live-site-url.com)
+
+
 ### 1. What parts were you in charge of?
 Erasor link of the project plan : https://app.eraser.io/workspace/1Y3nbDowExqZDiGJCLeX
 
